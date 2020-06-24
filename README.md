@@ -1,5 +1,5 @@
 # Enhanced Transport Distance for Unsupervised Domain Adaptation (ETD)
-This is the `pytorch` demo code for Enhanced Transport Distance for Unsupervised Domain Adaptation (ETD) (CVPR 2020)
+This is the `pytorch` demo code for **[Enhanced Transport Distance for Unsupervised Domain Adaptation (ETD) (CVPR 2020)](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Transport_Distance_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf)** 
 ## Requirements
 * python 3.7
 * torch 1.2.0
